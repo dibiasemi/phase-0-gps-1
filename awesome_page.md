@@ -9,4 +9,7 @@ A really cool [link to a really cool text editor](www.atom.io)
 
 ![screenshot](https://github.com/dibiasemi/phase-0-gps-1/blob/master/Screen%20Shot%202017-06-27%20at%206.13.29%20PM.png)
 
+<<<<<<< HEAD
 Hi
+=======
+>>>>>>> baabbcccf83b1495e2938ef11cea76ac45082d5a
